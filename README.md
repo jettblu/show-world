@@ -1,0 +1,2 @@
+# show-world
+This is a C# based program that updates my personal website via a GUI that abstracts SFTP. This project utilizes the windows forms module which is included within Microsoft's Visual Studio platform. You can adapt the code to your personal needs (if you have a similar web framework) by changing the directory names in the Form1.cs file and by modifying settings.settings so as to include your server login info. You can find my personal website at jetthays.com.
